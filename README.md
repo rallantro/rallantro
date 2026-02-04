@@ -26,7 +26,6 @@ Sou um entusiasta de tecnologia e desenvolvedor autodidata com experiência prá
 
 ## 📫 Entre em Contato  
 **LinkedIn:** [linkedin.com/in/ronaldovrocha](https://linkedin.com/in/ronaldovrocha)  
-**E-mail:** ronaldovliren@gmail.com  
 
 Obrigado pela visita! Fique à vontade para entrar em contato para colaborações, ideias de projetos ou só para trocar uma ideia sobre tecnologia e desenvolvimento. 😊
 <!--
