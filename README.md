@@ -10,7 +10,9 @@ Sou um entusiasta de tecnologia e desenvolvedor autodidata com experiência prá
 ---
 
 ## 💻 Habilidades Técnicas  
-**Linguagens de Programação:** C#, Java, JavaScript, Python, HTML/CSS  
+**Linguagens de Programação:** C#, Java, JavaScript, Python, HTML/CSS
+**FrameWorks:** .NET Framework, EntityFramework
+**Banco de Dados:** SQL
 **Desenvolvimento de Jogos:** Unity  
 **Desenvolvimento Web:** Frontend e Backend (noções)  
 **Ferramentas e Plataformas:** Git, GitHub, Arduino, Linux (básico)  
@@ -28,17 +30,3 @@ Sou um entusiasta de tecnologia e desenvolvedor autodidata com experiência prá
 **LinkedIn:** [linkedin.com/in/ronaldovrocha](https://linkedin.com/in/ronaldovrocha)  
 
 Obrigado pela visita! Fique à vontade para entrar em contato para colaborações, ideias de projetos ou só para trocar uma ideia sobre tecnologia e desenvolvimento. 😊
-<!--
-**rallantro/rallantro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
