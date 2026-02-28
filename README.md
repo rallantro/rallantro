@@ -10,9 +10,9 @@ Sou um entusiasta de tecnologia e desenvolvedor autodidata com experiência prá
 ---
 
 ## 💻 Habilidades Técnicas  
-**Linguagens de Programação:** C#, Java, JavaScript, Python, HTML/CSS
-**FrameWorks:** .NET Framework, EntityFramework
-**Banco de Dados:** SQL
+**Linguagens de Programação:** C#, Java, JavaScript, Python, HTML/CSS  
+**FrameWorks:** .NET Framework, EntityFramework  
+**Banco de Dados:** SQL  
 **Desenvolvimento de Jogos:** Unity  
 **Desenvolvimento Web:** Frontend e Backend (noções)  
 **Ferramentas e Plataformas:** Git, GitHub, Arduino, Linux (básico)  
