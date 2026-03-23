@@ -10,17 +10,24 @@ Sou um entusiasta de tecnologia e desenvolvedor autodidata com experiência prá
 ---
 
 ## 💻 Habilidades Técnicas  
-**Linguagens de Programação:** C#, Java, JavaScript, Python, HTML/CSS  
-**FrameWorks:** .NET Framework, EntityFramework  
-**Banco de Dados:** SQL  
-**Desenvolvimento de Jogos:** Unity  
-**Desenvolvimento Web:** Frontend e Backend (noções)  
-**Ferramentas e Plataformas:** Git, GitHub, Arduino, Linux (básico)  
+**Backend:** C#, .NET 10, Entity Framework, Java, Python, SQL Server  
+**Frontend:** JavaScript (ES6+), HTML5, CSS3, JWT Auth.  
+**Game Dev:** Unity (C#), Godot.  
+**Hardware/IoT:** Arduino, Automação de Sistemas.  
+**Ferramentas:** Git, GitHub, Linux, Visual Studio.  
 
 ---
 
-## 🏆 Projeto em Destaque  
-**ReciclaPET** – Medalha de Ouro (estadual) e Bronze (nacional) no concurso de sustentabilidade da ArcelorMittal.  
+## 🏆 Projetos em Destaque  
+**📚 [Sistema de Gerenciamento de Biblioteca](https://github.com/rallantro/Sistema-de-Biblioteca)**   
+API REST completa desenvolvida em .NET 10, utilizando Entity Framework e SQL Server.
+
+- Frontend em JavaScript puro com autenticação JWT.
+- Sistema de CRUD completo para administração e área pública de consultas.
+
+**🌱 ReciclaPET (Projeto Premiado)**  
+
+Medalha de Ouro (estadual) e Bronze (nacional) no concurso de sustentabilidade da ArcelorMittal.  
 - Desenvolvi o aplicativo móvel e o sistema de automação para uma horta vertical sustentável.  
 - Integrei hardware (Arduino) com software para monitoramento em tempo real.
 
