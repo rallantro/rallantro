@@ -1,55 +1,60 @@
-
 # Olá, eu sou Ronaldo Allan! 👋
-Seja bem-vindo(a) ao meu perfil no GitHub!
 
----
+Sou um desenvolvedor autodidata com foco em **Back-end C#/.NET**, movido pela curiosidade de construir coisas que funcionam desde os 7 anos de idade. Minha jornada é marcada pela busca constante de soluções práticas, o que me levou a ser premiado nacionalmente por um projeto de tecnologia sustentável. Atualmente, curso **Bacharelado em Tecnologia da Informação na UNIVESP** e estou em busca da minha primeira oportunidade profissional como desenvolvedor.
 
-## 🙋‍♂️ Sobre Mim  
-Sou um entusiasta de tecnologia e desenvolvedor autodidata com experiência prática em programação desde a infância. Construí projetos pessoais nas áreas de desenvolvimento de jogos, criação de sites e automação — incluindo projetos premiados de tecnologia sustentável. Estou em busca da minha primeira oportunidade profissional em desenvolvimento de software, onde posso contribuir com criatividade, dedicação e muita vontade de aprender e evoluir.
+## 🎯 O que me move
 
+Acredito que a tecnologia tem o poder de transformar a rotina das pessoas. Por isso, meus projetos são construídos para serem funcionais, seguros e com uma boa experiência de uso — seja um sistema de gerenciamento de biblioteca, um jogo para aumentar a produtividade ou uma solução de automação para uma horta.
 
----
+## 💻 Habilidades Técnicas
 
-## 💻 Habilidades Técnicas  
-**Backend:** C#, .NET 10, Entity Framework, Java, Python, SQL Server  
-**Frontend:** JavaScript (ES6+), HTML5, CSS3, JWT Auth.  
-**Game Dev:** Unity (C#), Godot.  
-**Hardware/IoT:** Arduino, Automação de Sistemas.  
-**Ferramentas:** Git, GitHub, Linux, Visual Studio.  
+**Backend:** C#, .NET 10, Entity Framework Core, ASP.NET Core, JWT, Java, Python  
+**Frontend:** JavaScript (ES6+), HTML5, CSS3  
+**Banco de Dados:** SQL Server, SQLite, SQL  
+**Game Dev:** Unity (C#), Godot  
+**Hardware/IoT:** Arduino, Automação de Sistemas  
+**Ferramentas:** Git, GitHub, Linux, Visual Studio, VS Code, GitHub Copilot
 
----
+## 📚 O que estou estudando agora
 
-## 🏆 Projetos em Destaque  
-**📚 [Sistema de Gerenciamento de Biblioteca](https://github.com/rallantro/Sistema-de-Biblioteca)**  
-  
-![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)  
-API REST completa desenvolvida em .NET 10, utilizando Entity Framework e SQL Server.
+Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**, **testes unitários (xUnit)** e **boas práticas de desenvolvimento** com C# e .NET.
 
-- Frontend em JavaScript puro com autenticação JWT.
-- Sistema de CRUD completo para administração e área pública de consultas.
+## 🚀 Projetos em Destaque
 
-**🎮 [Task-u](https://github.com/rallantro/Task-U)**  
-  
-![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square)  
-RPG de console em C# (.NET 10) que gamifica a produtividade, convertendo tarefas diárias em progresso no jogo.
+### 📚 [Sistema de Gerenciamento de Biblioteca](https://github.com/rallantro/Sistema-de-Biblioteca)
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 
-- Sistema de gacha com pity, soft pity e banners rotativos semanais.
-- Combate por turnos com habilidades únicas, status (stun, silence) e itens consumíveis.
-- Persistência de dados com Entity Framework Core e SQLite.
-- Arquitetura em camadas (Core, Models, Data, Services) e uso extensivo de POO.
+API REST completa desenvolvida em .NET 10 com autenticação JWT. O sistema separa áreas pública (consulta de livros) e privada (CRUD completo para administradores), com validações de segurança e uma interface intuitiva em JavaScript puro.
 
+**Destaques:** Autenticação JWT, Entity Framework Core, Migrações Code-First, Validações de segurança.
 
-**🌱 ReciclaPET (Projeto Premiado)**  
-  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square) ![IoT](https://img.shields.io/badge/Hardware-IoT-blueviolet?style=flat-square)  
-Medalha de Ouro (estadual) e Bronze (nacional) no concurso de sustentabilidade da ArcelorMittal.  
-- Desenvolvi o aplicativo móvel e o sistema de automação para uma horta vertical sustentável.  
-- Integrei hardware (Arduino) com software para monitoramento em tempo real.
+### 🎮 [Task-U — RPG de Produtividade](https://github.com/rallantro/Task-U)
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square)
 
----
+RPG de console que gamifica a produtividade, convertendo tarefas diárias em progresso no jogo. O jogador acumula cristais para invocar personagens (sistema gacha), equipá-los e enfrentar inimigos em combates por turnos.
 
-## 📫 Entre em Contato  
+**Destaques:** Sistema de gacha com pity/soft pity, combate por turnos com status (stun, silêncio), arquitetura em camadas (Core, Models, Data, Services), persistência com EF Core e SQLite.
+
+### 💳 [Validador de Cartões de Crédito](https://github.com/rallantro/validador-cartao-csharp)
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=flat-square)
+
+Biblioteca em C# que valida números de cartão com o algoritmo de Luhn e identifica 5 bandeiras (Visa, MasterCard, American Express, JCB e Elo). O projeto é acompanhado por **15 testes unitários com xUnit**, garantindo sua confiabilidade.
+
+**Destaques:** Algoritmo de Luhn, Testes unitários com xUnit, Métodos modulares e reutilizáveis.
+
+### 🌱 ReciclaPET (Projeto Premiado)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square) ![IoT](https://img.shields.io/badge/Hardware-IoT-blueviolet?style=flat-square)
+
+Projeto de horta vertical automatizada com irrigação via Bluetooth, desenvolvido com Arduino e um aplicativo mobile. Premiado com **Medalha de Ouro (Estadual) e Bronze (Nacional)** no concurso de sustentabilidade da ArcelorMittal.
+
+**Destaques:** Integração hardware-software, Internet das Coisas (IoT), Projeto com propósito socioambiental.
+
+## 📫 Como me encontrar
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldovrocha/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rallantro/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldoavrocha@gmail.com)
 
-Obrigado pela visita! Fique à vontade para entrar em contato para colaborações, ideias de projetos ou só para trocar uma ideia sobre tecnologia e desenvolvimento. 😊
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios, abrir issues ou entrar em contato. Estou aberto a colaborações, feedbacks e, claro, novas oportunidades!
